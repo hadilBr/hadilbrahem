@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/hadilbrahem" width="120" style="border-radius: 50%;" alt="Hadil Brahem"/>
-  
+
   <h1>Hadil Brahem</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF694B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Data+Analyst+%7C+BI+Developer;2%2B+Years+in+Data+Analysis+%26+Operations;Building+AI+that+creates+real+business+impact" alt="Typing SVG" />
